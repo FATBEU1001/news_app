@@ -1,0 +1,28 @@
+{
+  "news": [
+    {
+      "title": "Thoát nạn ",
+      "desc": "4 người lập tức hạ phao cứu sinh, phát tín hiệu khẩn cấp, khi thuyền buồm chìm dần vì va chạm cá voi ở Thái Bình Dương.",
+      "img_url": "https://i1-vnexpress.vnecdn.net/2023/03/23/2023-01-24T184032Z-587848719-R-6259-5727-1679563328.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=F4UXeZakdZrn5iGumLSbIA",
+      "id": 1
+    },
+    {
+      "title": "4 điểm nhấn từ thượng đỉnh Nga - Trung",
+      "desc": "Cuộc gặp thượng đỉnh giữa Chủ tịch Trung Quốc và Tổng thống Nga giúp tăng hợp tác về kinh tế, năng lượng, quân sự, nhưng chưa giải quyết được vấn đề Ukraine.",
+      "img_url": "https://i1-vnexpress.vnecdn.net/2023/03/23/TGSK77FCUVORBLJRE4CZKAEH6A-jpe-3261-3830-1679544316.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=lw3THbB2NV4Tkorg6XE5Dg",
+      "id": 2
+    },
+    {
+      "title": "Việt Nam bình luận về thương vụ tàu ngầm hạt nhân của Australia",
+      "desc": "Việt Nam kêu gọi các nước bảo đảm an toàn về năng lượng nguyên tử trong khu vực, khi đề cập thương vụ Australia mua tàu ngầm hạt nhân từ Mỹ.",
+      "img_url": "https://i1-vnexpress.vnecdn.net/2023/03/23/virginia-2-2789-1678318092-556-9059-8199-1679562918.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=kpojslMqVmfaQyUwI0J1SQ",
+      "id": 3
+    },
+    {
+      "title": "Việt Nam xác minh tin công dân bị FBI truy nã vì rửa 3 tỷ USD",
+      "desc": "Bộ Ngoại giao cho biết Việt Nam đang điều tra, xác minh thông tin một người Việt bị FBI truy nã với cáo buộc liên quan đến hoạt động rửa 3 tỷ USD tiền số.",
+      "img_url": "https://i1-vnexpress.vnecdn.net/2023/03/23/Truy-Na-Nguyen-Minh-Quoc-FBI-R-2397-5117-1679563810.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=XJkHm8rBdfejsO03MfxwUA",
+      "id": 4
+    }
+  ]
+}
