@@ -1,4 +1,4 @@
-const newsAPI = "http://localhost:3000/news";
+const newsAPI = "https://crud-news.onrender.com/news";
 const listNews = document.querySelector(".list-news");
 const formTittle = document.querySelector("input[name='title']");
 const formDesc = document.querySelector("input[name='desc']");
